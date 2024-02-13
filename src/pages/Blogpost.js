@@ -34,7 +34,7 @@ function Blogpost() {
         <div id="bi" className="bim3">by<a href='#'> Maria Williams </a> in <a href='#'>Restaurant</a>
         </div>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec varius dui. Suspendisse potenti. Vestibulum ac pellentesque tortor. Aenean congue sed metus in iaculis. Cras a tortor enim. Phasellus posuere vestibulum ipsum, eget lobortis purus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
-        <a className="bttn" href='#'>Read more</a>
+        <a className="bttn" href='#'>Read moree</a>
       </div>
       <div className="bim1 nbb1">
         <img src={bm3} alt=""/>
