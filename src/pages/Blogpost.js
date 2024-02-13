@@ -93,7 +93,7 @@ function Blogpost() {
         <div className="pqr" id="">
                     <p id="pi3">"</p>
                     <h4>Nothing is better than going home to family and eating good food and relaxing</h4>
-                    <h5>John Smith</h5>
+                    <h5>John Smithh</h5>
                     <div id="comi">
                         <p id="dp">January 04,2018</p>
                         <p id="cp">2 Comments</p>
