@@ -10,7 +10,7 @@ function Blogpost() {
   return (
     <>
   
-    <div className="container-fluid bimg ">
+    <div className="container-fluid bimg px-0">
       <h4>Blog</h4>
     </div>
     <div className="container fluidblogpage">
