@@ -11,7 +11,11 @@ function Blogpost() {
     <>
   
     <div className="container-fluid bimg px-0">
+      {/* <div className='row'> */}
       <h4>Blog</h4>
+
+      {/* </div> */}
+      
     </div>
     <div className="container fluidblogpage">
       <div className="row">

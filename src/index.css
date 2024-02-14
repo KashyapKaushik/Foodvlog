@@ -5,12 +5,14 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
 /* .text{
   color: grey;
   margin-left: 100px;
@@ -561,7 +563,7 @@ margin-top: 70px;
 /* background-color: aqua; */
 }
 .bimg{
-  width: 1242px;
+  width: auto;
   height: 190px;
   background-image: url("../src/images/breadcumb2.jpg");
   background-size: 100%;
